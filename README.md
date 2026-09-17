@@ -1,5 +1,5 @@
 # Hi, I'm Daiyrbek 👋
-### 🐍 Python Backend & AI/ML Engineer
+# 🐍 Python Backend & AI/ML Engineer
 ![Banner](./pin_597712181836942579_ScienceofLearning-ezgif.com-video-to-gif-converter.gif)
 
 
@@ -45,5 +45,5 @@ Check out my repositories for projects related to:
 
 
 ### 📫 Contact
-GitHub: https://github.com/daiyr2005
-Linkedin: https://www.linkedin.com/in/daiyrbek-kanatbekov-7799303a1/
+* GitHub: https://github.com/daiyr2005
+* Linkedin: https://www.linkedin.com/in/daiyrbek-kanatbekov-7799303a1/
