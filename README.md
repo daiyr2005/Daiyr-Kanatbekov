@@ -47,4 +47,4 @@ Check out my repositories for projects related to:
 ### 📫 Contact
 * GitHub: https://github.com/daiyr2005
 * Linkedin: https://www.linkedin.com/in/daiyrbek-kanatbekov-7799303a1/
-* Telegram: @KanatbekovDaiyrbek
+* Telegram: [@KanatbekovDaiyrbek](https://web.telegram.org/a/#-1003789874127_1)
