@@ -1,8 +1,14 @@
-<video src="./pin_597712181836942579_Science of Learning.mp4" autoplay loop muted playsinline width="100%"></video>
-![Demo](./pin_597712181836942579_ScienceofLearning-ezgif.com-video-to-gif-converter.gif)
-# Hi, I'm Daiyr 👋
-
 ### Python Backend & AI/ML Developer
+![Demo](./pin_597712181836942579_ScienceofLearning-ezgif.com-video-to-gif-converter.gif)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+# Hi, I'm Daiyrbek 👋
+
+
 
 I'm a Python developer focused on **Backend Development, AI/ML and LLM applications**.
 
@@ -38,11 +44,6 @@ Check out my repositories for projects related to:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📌 Featured Projects
-- [RAG-система для документов](ссылка) — построение поиска по базе знаний с LangChain
-- [FastAPI микросервис](ссылка) — асинхронный бэкенд с Celery
-
-![Daiyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiyr2005&show_icons=true&theme=radical)
 
 
 ### 📫 Contact
