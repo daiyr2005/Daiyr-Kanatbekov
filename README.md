@@ -15,7 +15,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I'm a Python developer focused on **Backend Development, AI/ML and LLM applications**.
+## I'm a Python developer focused on **Backend Development, AI/ML and LLM applications**.
 
 ### 🚀 Tech Stack
 
