@@ -1,5 +1,5 @@
 <video src="./pin_597712181836942579_Science of Learning.mp4" autoplay loop muted playsinline width="100%"></video>
-
+![Demo](./pin_597712181836942579_Science of Learning.gif)
 
 # Hi, I'm Daiyr 👋
 
