@@ -33,10 +33,18 @@ Check out my repositories for projects related to:
 * Computer Vision
 * Backend & Microservices
 
-### 📫 Contact
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### 📌 Featured Projects
+- [RAG-система для документов](ссылка) — построение поиска по базе знаний с LangChain
+- [FastAPI микросервис](ссылка) — асинхронный бэкенд с Celery
+
+![Daiyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiyr2005&show_icons=true&theme=radical)
+
+
+### 📫 Contact
 GitHub: https://github.com/daiyr2005
