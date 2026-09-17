@@ -1,5 +1,5 @@
 ### Python Backend & AI/ML Developer
-![Demo](./pin_597712181836942579_ScienceofLearning-ezgif.com-video-to-gif-converter.gif)
+![Banner](./pin_597712181836942579_ScienceofLearning-ezgif.com-video-to-gif-converter.gif)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
